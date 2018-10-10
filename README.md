@@ -16,7 +16,7 @@ The main files are in the *Figures* folder:
 
 The *Figures/results* folder contains .jld results files. These are translated into .csv format by the *figure_data_v063* notebook and placed into the *Figures/CSV* folder
 
-The *PythonPlotting* folder contains the code to reproduce all figures from csv files in chapter x of my thesis.
+The *PythonPlotting* folder contains the code to reproduce all figures from csv files in chapter 4 of my thesis.
 
 
 
